@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "SQL Project",
+  "main": "index.js",
+  "activationEvents": [
+    "onStartupFinished",
+    "workspaceContains:**/*.sqlproj"
+  ],
+  "contributes": {
+    "commands": {
+      "sqlproject.create": {
+        "title": "Create SQL Project",
+        "command": "sqlproject.create",
+        "category": "SQL Project"
+      }
+    }
+  }
+}
