@@ -10,4 +10,7 @@ _Provide a clear, concise summary of the changes in this PR. What problem does i
 - [ ] Telemetry/logging updated if relevant
 - [ ] No regressions or UX breakage
 
-## Reviewers: [Please read our reviewer guidelines](https://github.com/microsoft/vscode-mssql/blob/main/.github/REVIEW_GUIDELINES.md)
+## Reviewers: [Please read our reviewer guidelines][def]
+
+
+[def]: https://github.com/microsoft/vscode-mssql/blob/main/.github/REVIEW_GUIDELINES.md
